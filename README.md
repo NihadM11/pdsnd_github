@@ -6,6 +6,7 @@ Posting my work on github project
 
 ### Description
 I don't even know yet
+This project was a console application that gives you statistics found in local files
 ### Files used
 so far, bikeshare.py
 
