@@ -3,7 +3,8 @@ import pandas as pd
 import numpy as np
 import calendar
 
-#This project was made based on a template by Udacity 
+#This project was made based on a template by Udacity
+#those guys are the best!
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
